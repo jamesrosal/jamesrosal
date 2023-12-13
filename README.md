@@ -1,5 +1,6 @@
 # Hi, I'm James Rosal 👋
-### I'm a Full Stack Developer + Designer based in Chicago, IL with a great passion in creating anything having to do with art & technology.
+
+### I'm a **`Full Stack Developer + Designer`** based in Chicago, IL with a great passion in creating anything having to do with art & technology. I recently worked with a fashion development and brand agency, where I was able to utilize my programming skills and visual creativity towards building an app that connects entrepreneurs with fashion experts, and helps users build their fashion ideas. Many of my repos here are research and component based projects that I built to use towards this fashion app.
 
 ---
 
