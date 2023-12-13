@@ -1,4 +1,6 @@
-# Hi I'm James Rosal 👋
+# Hi, I'm James Rosal 👋
+
+###### Full Stack Developer + Designer
 
 <!--
 **jamesrosal/jamesrosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
