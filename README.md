@@ -6,10 +6,9 @@ I'm a **`Full Stack Developer + Designer`** based in Chicago, IL with a great pa
 <a class="btn" href="https://www.jamesrosal.com/development/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/jamesrosal.com-f2ff5f" height="64"></a>
 
 <br>
+<br>
 
----
-
-## My Tools
+# My Tools
   
 ### Programming
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" />
@@ -63,10 +62,10 @@ I'm a **`Full Stack Developer + Designer`** based in Chicago, IL with a great pa
 
 <br>
 <br>
+<br>
+<br>
 
----
-
-## Let's Connect!
+# Let's Connect!
 <a href="https://www.linkedin.com/in/jamesrosal/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-f2ff5f?logo=linkedin&logoColor=black" height="64"></a>
 <br>
 <a href="https://www.instagram.com/jamesrosal_/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-f2ff5f?logo=instagram&logoColor=black" height="64"></a>
