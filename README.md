@@ -1,4 +1,4 @@
-# Hi, I'm James Rosal 👋
+## Hi, I'm James Rosal 👋
 ###### Full Stack Developer + Designer
 
 ---
