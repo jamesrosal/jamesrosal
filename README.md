@@ -1,5 +1,5 @@
-## Hi, I'm James Rosal 👋
-###### Full Stack Developer + Designer
+# Hi, I'm James Rosal 👋
+###### I'm a Full Stack Developer + Designer based in Chicago, IL with a great passion in creating anything having to do with art & technology.
 
 ---
 
