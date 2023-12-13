@@ -68,6 +68,7 @@ I'm a **`Full Stack Developer + Designer`** based in Chicago, IL with a great pa
 
 ## Let's Connect!
 <a href="https://www.linkedin.com/in/jamesrosal/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-f2ff5f?logo=linkedin&logoColor=black" height="64"></a>
+<br>
 <a href="https://www.instagram.com/jamesrosal_/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-f2ff5f?logo=instagram&logoColor=black" height="64"></a>
 
 <!--
