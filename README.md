@@ -24,7 +24,7 @@ I'm a **`Full Stack Developer + Designer`** based in Chicago, IL with a great pa
 <br>
 <br>
 
-### Frameworks
+### Frameworks & Libraries
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="32" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="32" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="32" />
